@@ -11,9 +11,10 @@ public class DemoApp {
 
 		for (Object obj : cosas){
 			System.out.println(obj);
+			System.out.println("objeto1")
 		}
 	}
 
 
 
-}
+}  
